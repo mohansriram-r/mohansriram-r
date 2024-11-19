@@ -16,7 +16,7 @@ I'm a passionate software developer with a strong interest in [your areas of int
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohansriram-r&show_icons=true&theme=tokyonight)
 
 ## 📈 Contribution Graph
-[![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)](https://github.com/mohansriram-r)
+[![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mohansriram-r&theme=github)](https://github.com/mohansriram-r)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mohan-sriram-777a31297/)
