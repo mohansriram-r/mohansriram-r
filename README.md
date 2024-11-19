@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mohan Sriram 👋
 
 ## 👨‍💻 About Me
 I'm a passionate software developer with a strong interest in [your areas of interest like web development, machine learning, etc.]. I love to learn new technologies and improve my skills by working on exciting projects.
