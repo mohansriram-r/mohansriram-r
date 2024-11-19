@@ -1,7 +1,7 @@
 # Hi there, I'm Mohan Sriram 👋
 
 ## 👨‍💻 About Me
-I'm a passionate software developer with a strong interest in [your areas of interest like web development, machine learning, etc.]. I love to learn new technologies and improve my skills by working on exciting projects.
+I'm a passionate software developer with a strong interest in App development in flutter. I love to learn new technologies and improve my skills by working on exciting projects.
 
 - 🌱 I’m currently learning [C++, Python, Flutter].
 - 👯 I’m looking to collaborate on [App development projects].
